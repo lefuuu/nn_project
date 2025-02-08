@@ -21,4 +21,4 @@ class MyResNet(nn.Module):
         # self.model.fc.bias.requires_grad = True
 
     def forward(self, x):
-        return self.model.fc(x)
+        return self.model(x)
