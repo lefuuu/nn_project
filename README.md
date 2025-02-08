@@ -13,4 +13,4 @@
 
 ![Результат работы модели](images/output.png)
 
-Проект Вы можете посмотреть ![по ссылке](https://alexnetteam1.streamlit.app/)
+Проект Вы можете посмотреть по ссылке https://alexnetteam1.streamlit.app
